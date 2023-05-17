@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = LeapYear.Tests
+build_property.ProjectDir = /Users/iapostol/GitHub/C#/LeapYearKata/LeapYear.Tests/
